@@ -1,0 +1,4 @@
+secret_key       = "password"
+access_key       = "Project name"
+public_key       = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDExLa6/mSzY4lN/ULI1Q5kAanSxaE8FQTgpIY3gMjUG4m/MCe5tsivQjGxs9/y+H4WzfRW/x20TdIqCkZ0vmPRtgWMRBPLIIv05nkk3k/2qACns217hapGF2Tmp2KjhRS8mBe18+CPtIzCxqKAvdTLQ4Qg85TNoWNO5v2UoDZcp27xeczSzAW9OePWkMoZw9shbTYqZRHQDCSZO3U8ZI9HaH61skPRG/FRDWkezoNp386eEhR1pLcZiHMLu2MzHpRC8bosjvUl5gGQXI0hJmvirx4GJaGXeB4HEhNkTnBgTGvQAb2HoOKps4RrXXoB0khfxtJiX2bU70ek4PhclMUOWiJXCI4GFxub6YpERMfGdkZQA05gq+cgtoZaMCb8dr2rO+bMwTHtJ+3TyWbc8dMfdqQdUTGErcvzL6C8PM8A2crzbTAiFkXaJsJ2uIuOgECQvj5KxRgCLy5CTDTxv62tfA/fAytGpc5s2bjce8npGKkkj4SO10lOjdGRflR7oO8= croc\ptsyngalev@PTSYNGALEV-MOB"
+pubkey_name      = "My-project-SSH-key"
